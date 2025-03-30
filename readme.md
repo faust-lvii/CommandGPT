@@ -71,11 +71,15 @@ To use with LM Studio:
 
 **Interactive Mode:**
 
+https://user-images.githubusercontent.com/47084109/231006889-ceb8d60c-dea3-4c8f-88d6-a50be29ee615.mp4
+
 ```bash
 python main.py
 ```
 
 **Command Line Mode:**
+
+https://user-images.githubusercontent.com/47084109/231006746-ccd82554-0ec7-431e-a612-bbb3f29f0dd4.mp4
 
 ```bash
 python main.py [-h] -i INPUT -o OUTPUT -c COMMAND [-x] [-d] [--url URL] [--model MODEL] [--temp TEMP] [--max-tokens MAX_TOKENS]
